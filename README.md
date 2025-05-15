@@ -26,6 +26,7 @@
 ## 🔧 Project Folder Structure
 InternOnboardingAnalytics/
 ├── data/
+
 │   └── intern_onboarding.csv         ✅ Dummy onboarding dataset
 ├── scripts/
 │   └── analyze_onboarding.py         ✅ Python data cleaning/summary
