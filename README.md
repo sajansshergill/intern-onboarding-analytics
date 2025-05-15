@@ -38,3 +38,7 @@ InternOnboardingAnalytics/
 └── requirements.txt
 
 
+## 📊 Tech Stack
+- Power BI
+- Python (pandas)
+- Markdown
