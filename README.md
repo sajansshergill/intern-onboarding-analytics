@@ -35,9 +35,12 @@ InternOnboardingAnalytics/
 
 ├── powerbi/
 │   └── InternDashboard.pbix          ✅ Dashboard tracking onboarding
+
+
 ├── docs/
 │   ├── intern_guide.md               ✅ Getting started guide
 │   └── team_faq.md                   ✅ Common questions answered
+
 ├── README.md                         ✅ Full project summary
 └── requirements.txt
 
