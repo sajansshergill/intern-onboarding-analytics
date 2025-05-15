@@ -25,6 +25,7 @@
 
 ## 🔧 Project Folder Structure
 InternOnboardingAnalytics/
+
 ├── data/
 
 │   └── intern_onboarding.csv         ✅ Dummy onboarding dataset
