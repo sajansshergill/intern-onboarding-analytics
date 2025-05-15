@@ -1,0 +1,7 @@
+Readiness Score = 
+SWITCH(
+    TRUE(),
+    intern_onboarding[modules_completed] >= 4 && intern_onboarding[feedback_score] >= 4, "High",
+    intern_onboarding[modules_completed] >= 3, "Medium",
+    "Low"
+)

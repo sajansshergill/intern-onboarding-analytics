@@ -1,0 +1,7 @@
+Feedback Color = 
+SWITCH(
+    TRUE(),
+    intern_onboarding[feedback_score] <= 2, "Red",
+    intern_onboarding[feedback_score] >= 4, "Green",
+    "Gray"
+)

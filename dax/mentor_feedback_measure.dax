@@ -1,0 +1,5 @@
+Avg Feedback by Mentor = 
+AVERAGEX(
+    VALUES(intern_onboarding[mentor]),
+    CALCULATE(AVERAGE(intern_onboarding[feedback_score]))
+)
