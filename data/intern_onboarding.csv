@@ -1,0 +1,101 @@
+intern_id,name,team,mentor,join_date,onboarding_completed,modules_completed,first_project_assigned,feedback_score
+INT001,Intern_1,Engineering,Charlie,2024-08-02,No,1,No,
+INT002,Intern_2,Engineering,Ethan,2024-08-24,No,2,No,
+INT003,Intern_3,Marketing,Diana,2024-07-02,No,2,No,
+INT004,Intern_4,Marketing,Ethan,2024-08-09,No,2,No,
+INT005,Intern_5,Marketing,Ethan,2024-06-02,No,1,No,
+INT006,Intern_6,Product,Bob,2024-06-01,No,0,No,
+INT007,Intern_7,Product,Bob,2024-06-23,No,1,No,
+INT008,Intern_8,Marketing,Diana,2024-06-07,Yes,0,No,1.0
+INT009,Intern_9,Marketing,Diana,2024-06-02,Yes,2,No,1.0
+INT010,Intern_10,Product,Ethan,2024-07-12,No,1,No,
+INT011,Intern_11,Marketing,Diana,2024-07-15,No,0,No,
+INT012,Intern_12,Data Science,Bob,2024-08-28,No,0,No,
+INT013,Intern_13,Product,Charlie,2024-08-19,Yes,4,Yes,5.0
+INT014,Intern_14,Product,Diana,2024-07-04,No,1,No,
+INT015,Intern_15,Product,Ethan,2024-08-28,Yes,5,Yes,3.0
+INT016,Intern_16,Design,Charlie,2024-06-10,Yes,1,No,3.0
+INT017,Intern_17,Product,Alice,2024-07-27,No,2,No,
+INT018,Intern_18,Data Science,Charlie,2024-07-26,Yes,2,No,4.0
+INT019,Intern_19,Design,Ethan,2024-07-31,No,0,No,
+INT020,Intern_20,Engineering,Alice,2024-08-19,No,0,No,
+INT021,Intern_21,Product,Ethan,2024-06-06,Yes,0,No,5.0
+INT022,Intern_22,Design,Diana,2024-07-31,No,1,No,
+INT023,Intern_23,Marketing,Ethan,2024-06-28,Yes,3,Yes,3.0
+INT024,Intern_24,Marketing,Diana,2024-08-04,Yes,0,No,4.0
+INT025,Intern_25,Product,Bob,2024-08-23,Yes,5,Yes,4.0
+INT026,Intern_26,Engineering,Diana,2024-08-24,Yes,0,No,3.0
+INT027,Intern_27,Marketing,Ethan,2024-08-10,Yes,0,No,3.0
+INT028,Intern_28,Engineering,Bob,2024-08-01,No,1,No,
+INT029,Intern_29,Engineering,Charlie,2024-06-26,No,2,No,
+INT030,Intern_30,Engineering,Bob,2024-07-12,Yes,4,Yes,5.0
+INT031,Intern_31,Data Science,Charlie,2024-07-24,Yes,2,No,3.0
+INT032,Intern_32,Product,Bob,2024-07-19,Yes,4,Yes,5.0
+INT033,Intern_33,Engineering,Alice,2024-06-30,Yes,1,No,1.0
+INT034,Intern_34,Data Science,Ethan,2024-07-16,Yes,1,No,2.0
+INT035,Intern_35,Engineering,Diana,2024-08-28,Yes,2,No,1.0
+INT036,Intern_36,Data Science,Bob,2024-06-10,Yes,5,Yes,2.0
+INT037,Intern_37,Data Science,Bob,2024-06-29,Yes,1,No,5.0
+INT038,Intern_38,Data Science,Alice,2024-07-04,No,1,No,
+INT039,Intern_39,Engineering,Bob,2024-06-26,Yes,1,No,1.0
+INT040,Intern_40,Design,Bob,2024-07-29,No,0,No,
+INT041,Intern_41,Marketing,Bob,2024-08-29,Yes,3,Yes,1.0
+INT042,Intern_42,Marketing,Alice,2024-06-18,Yes,1,No,2.0
+INT043,Intern_43,Design,Charlie,2024-06-05,Yes,3,Yes,5.0
+INT044,Intern_44,Product,Alice,2024-07-23,No,0,No,
+INT045,Intern_45,Design,Bob,2024-06-17,No,2,No,
+INT046,Intern_46,Design,Charlie,2024-08-19,No,0,No,
+INT047,Intern_47,Marketing,Ethan,2024-06-04,Yes,2,No,2.0
+INT048,Intern_48,Product,Bob,2024-08-04,Yes,0,No,5.0
+INT049,Intern_49,Data Science,Bob,2024-06-11,Yes,3,Yes,2.0
+INT050,Intern_50,Product,Diana,2024-06-05,No,1,No,
+INT051,Intern_51,Design,Bob,2024-08-26,No,0,No,
+INT052,Intern_52,Product,Alice,2024-07-16,No,0,No,
+INT053,Intern_53,Data Science,Ethan,2024-06-13,Yes,1,No,1.0
+INT054,Intern_54,Marketing,Alice,2024-08-21,Yes,2,No,4.0
+INT055,Intern_55,Data Science,Bob,2024-07-14,Yes,0,No,5.0
+INT056,Intern_56,Marketing,Charlie,2024-07-08,Yes,0,No,5.0
+INT057,Intern_57,Marketing,Alice,2024-08-25,Yes,1,No,3.0
+INT058,Intern_58,Engineering,Bob,2024-07-28,No,1,No,
+INT059,Intern_59,Design,Bob,2024-07-26,Yes,0,No,1.0
+INT060,Intern_60,Design,Alice,2024-06-26,No,0,No,
+INT061,Intern_61,Design,Diana,2024-07-05,Yes,3,Yes,2.0
+INT062,Intern_62,Design,Bob,2024-08-11,No,2,No,
+INT063,Intern_63,Design,Alice,2024-07-31,Yes,1,No,3.0
+INT064,Intern_64,Product,Alice,2024-08-06,Yes,3,Yes,3.0
+INT065,Intern_65,Data Science,Ethan,2024-07-15,Yes,4,Yes,5.0
+INT066,Intern_66,Design,Diana,2024-08-10,Yes,4,Yes,5.0
+INT067,Intern_67,Product,Diana,2024-06-12,Yes,4,Yes,1.0
+INT068,Intern_68,Product,Alice,2024-06-01,Yes,1,No,5.0
+INT069,Intern_69,Data Science,Bob,2024-08-17,Yes,5,Yes,4.0
+INT070,Intern_70,Data Science,Charlie,2024-07-19,No,2,No,
+INT071,Intern_71,Data Science,Diana,2024-08-04,Yes,2,No,2.0
+INT072,Intern_72,Engineering,Ethan,2024-06-30,No,2,No,
+INT073,Intern_73,Marketing,Diana,2024-06-24,Yes,0,No,5.0
+INT074,Intern_74,Product,Charlie,2024-08-15,No,2,No,
+INT075,Intern_75,Design,Alice,2024-08-20,No,0,No,
+INT076,Intern_76,Engineering,Ethan,2024-08-17,Yes,4,Yes,1.0
+INT077,Intern_77,Engineering,Alice,2024-08-30,No,2,No,
+INT078,Intern_78,Data Science,Diana,2024-06-29,Yes,2,No,4.0
+INT079,Intern_79,Product,Bob,2024-08-13,No,1,No,
+INT080,Intern_80,Marketing,Alice,2024-06-16,No,1,No,
+INT081,Intern_81,Data Science,Ethan,2024-08-08,No,2,No,
+INT082,Intern_82,Engineering,Bob,2024-06-20,No,0,No,
+INT083,Intern_83,Product,Charlie,2024-08-24,Yes,2,No,3.0
+INT084,Intern_84,Marketing,Bob,2024-08-14,Yes,3,Yes,1.0
+INT085,Intern_85,Data Science,Bob,2024-06-22,Yes,5,Yes,5.0
+INT086,Intern_86,Design,Diana,2024-07-18,No,1,No,
+INT087,Intern_87,Marketing,Diana,2024-07-26,Yes,1,No,3.0
+INT088,Intern_88,Data Science,Bob,2024-06-27,No,0,No,
+INT089,Intern_89,Product,Alice,2024-06-11,Yes,1,No,3.0
+INT090,Intern_90,Design,Ethan,2024-07-13,Yes,1,No,2.0
+INT091,Intern_91,Data Science,Bob,2024-06-12,No,1,No,
+INT092,Intern_92,Data Science,Diana,2024-07-09,No,0,No,
+INT093,Intern_93,Engineering,Bob,2024-07-04,Yes,0,No,3.0
+INT094,Intern_94,Engineering,Charlie,2024-08-18,No,2,No,
+INT095,Intern_95,Design,Ethan,2024-06-01,Yes,5,Yes,2.0
+INT096,Intern_96,Engineering,Bob,2024-08-29,Yes,4,Yes,4.0
+INT097,Intern_97,Design,Diana,2024-08-23,No,2,No,
+INT098,Intern_98,Engineering,Charlie,2024-08-04,No,0,No,
+INT099,Intern_99,Design,Diana,2024-06-17,No,2,No,
+INT100,Intern_100,Product,Diana,2024-07-19,Yes,1,No,1.0
